@@ -39,11 +39,11 @@ Outside of coding, I enjoy learning new technologies, contributing to team proje
 - Distributed Systems
 - System Design
 
-## 📫 Connect with Me
+## 📫 Contact Me
 
-- LinkedIn: www.linkedin.com/in/piumini-abeysinghe-6870a5303
-- GitHub: https://github.com/PIU2003
-
+📧 **Email:** piuminiabeysinghe2003@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/piumini-abeysinghe-6870a5303  
+💻 **GitHub:** https://github.com/PIU2003
 ---
 
 > *"Keep learning, keep building, and let curiosity lead the way."*
